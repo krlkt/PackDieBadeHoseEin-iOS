@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "GEfrc5_Badestelle_am_Gollinsee,_Foto_Alena_Lampe_(BY-ND-NC).jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
