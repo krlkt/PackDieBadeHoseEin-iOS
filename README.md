@@ -8,5 +8,5 @@ My first mobile iOS Application created with swift. The main purpose is to list 
             how to build iOS simple GUI and how to add persistent items such as 'add to favorites'.
 
 # Usage
- Open using xCode
+ Open using xCode,
  Build and run
