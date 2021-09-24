@@ -8,11 +8,10 @@ My first mobile iOS Application created with swift. The main purpose is to list 
             how to build iOS simple GUI and how to add persistent items such as 'add to favorites'.
 
 # GUI Screenshots
-<img src="Screenshots/List.png" style="width: 180px">
-![](Screenshots/List.png)
-![](Screenshots/Clicked.png)
-![](Screenshots/Details.png)
-![](Screenshots/Map.png)
+<img src="Screenshots/List.png" style="width: 240px">
+<img src="Screenshots/Clicked.png" style="width: 240px">
+<img src="Screenshots/Details.png" style="width: 240px">
+<img src="Screenshots/Map.png" style="width: 240px">
 
 # Usage
 Install xCode on Mac OS             
