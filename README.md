@@ -6,7 +6,7 @@ My first mobile iOS Application created with swift. The main purpose is to list 
             into data. Here I learned about JSON File format and how to send and receive information to/from it.
 
 # GUI Screenshots
-<div style="display: inline-block"
+<div style="display: inline-block">
 <img src="Screenshots/List.png" style="width: 240px">
 <img src="Screenshots/Clicked.png" style="width: 240px">
 <img src="Screenshots/Details.png" style="width: 240px">
